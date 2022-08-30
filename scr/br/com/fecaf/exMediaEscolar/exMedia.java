@@ -166,6 +166,7 @@ public class exMedia {
             System.out.println("__________________________________________________________________________");
         }
         if (media <= 60) {
+            System.out.println("__________________________________________________________________________");
             System.out.println(sexoAluno + nomeAluno + " foi " + situacao + " na disciplina " + nomeDisciplina);
             System.out.println("Curso: " + nomeCurso);
             System.out.println(sexoDocente + nomeDocente);
